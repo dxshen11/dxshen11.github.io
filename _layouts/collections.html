@@ -1,0 +1,19 @@
+---
+layout: default
+---
+{% comment %}
+License note from S0AndS0; an editor in this context.
+
+Minima (where the following code is sourced from), is shared under the
+ MIT Lisense, https://github.com/jekyll/minima/blob/master/LICENSE.txt
+
+Thus any alterations to Minima source code is re-shared under the MIT Lisense
+{% endcomment %}
+{% for collection in site.collections %}
+  <h2>{{ collection.label }}</h2>
+  <ul>
+    {% for item in site[collection.label] %}
+      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
