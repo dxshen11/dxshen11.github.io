@@ -3,7 +3,7 @@ layout: post
 title:  "UCLA MakerSpace"
 ---
 
-## TEST
+## UCLA MakerSpace
 
 Image here ->
 

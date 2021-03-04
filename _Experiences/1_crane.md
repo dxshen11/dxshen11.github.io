@@ -3,7 +3,7 @@ layout: post
 title:  "Manufacturing Engineering Internship: Crane Aerospace & Electronics"
 ---
 
-## TEST
+## Crane Aerospace & Electronics
 
 Image here ->
 
