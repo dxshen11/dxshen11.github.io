@@ -16,5 +16,5 @@ Classes taken:
 + Compliant Mechanism Design
 + Rapid Prototyping & Manufacturing
 + Microsciences
-+ Artifical Intelligence for Engineers
++ Artificial Intelligence for Engineers
 + Machine Learning & Modeling in Bioengineering

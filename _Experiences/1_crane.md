@@ -8,7 +8,7 @@ title:  "Manufacturing Engineering Internship: Crane Aerospace & Electronics"
 
 # Role: Manufacturing Engineering Intern
 
-I interned in the manufacturing engineering department at Crane Aerospace & Electronics in Burbank in the summer of 2020. Crane A&E designs and manufactures a variety of aerospace equipment, with a focus on brake control systems for commerical and military aircraft. 
+I interned in the manufacturing engineering department at Crane Aerospace & Electronics in Burbank for the summer of 2020. Crane A&E designs and manufactures a variety of aerospace equipment, with a focus on brake control systems for commercial and military aircraft. 
 
 <img src="/assets/crane_servo.png" alt="logo" class = 'center'>
 

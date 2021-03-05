@@ -9,7 +9,7 @@ title:  "Additive Manufacturing Researcher: Billi Lab"
 
 # Role: Additive Manufacturing Researcher
 
-As an undergraduate researcher, I joined the Billi Lab at the UCLA Orthopedic Hospital Research Center to investigate the application of additive manufacturing in biomaterials and surgical rehersal. 
+As an undergraduate researcher, I joined the Billi Lab at the UCLA Orthopedic Hospital Research Center to investigate the application of additive manufacturing in biomaterials and surgical rehearsal. 
 
 During my time, I became incredibly familiar with the lab's FDM and SLA 3D printers (an ANET A8, Prusa i3 MK 2S, and Formlabs Form 2). Along with another researcher, I changed out the ANET's power supply, control board (default to MKS Gen 1.4), firmware, bed material, and implemented new support structures for rigidity. 
 
