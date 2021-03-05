@@ -3,10 +3,18 @@ layout: post
 title:  "M.S. Mechanical Engineering (2020 - 2021)"
 ---
 
-## TEST
+## University of California, Los Angeles (UCLA)
 
-Image here ->
+**M.S. Mechanical Engineering** 
+<br>
+Technical focus: Design, Robotics, and Manufacturing
+<br>
+Dates attended: September 2020 - June 2021
 
-# Description:
-
-Text here ->
+Classes taken:
++ High Temperature Design
++ Compliant Mechanism Design
++ Rapid Prototyping & Manufacturing
++ Microsciences
++ Artifical Intelligence for Engineers
++ Machine Learning & Modeling in Bioengineering

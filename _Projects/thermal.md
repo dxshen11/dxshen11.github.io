@@ -3,10 +3,15 @@ layout: post
 title:  "Thermal Testbed"
 ---
 
-## TEST
+## Invetech: Thermal Testbed
 
-Image here ->
+<img src="/assets/thermal testbed.png" alt="logo" class = 'centered'>
 
-# Description:
+Goal:
++ To study the amount of fluid left in the consumable device after evacuation due to interfacial phenomena.
++ Develop the optimal geometry for fluid evacution and decide on final model for the microfluidic device.
 
-Text here ->
+Work Completed:
++ The consumable mount was hand milled on a Brideport mill, with two DMMs nearby to measure temperature, and the system was heated via a resistive heater.
++ Additional hardware was sourced from the machine shop and jigged together to create the testbed structure.
++ Hand calculations were completed to determine multiple characteristics (heating time, max temps, etc.).
