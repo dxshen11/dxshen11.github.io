@@ -1,0 +1,15 @@
+I"A<h2 id="invetech-thermal-testbed">Invetech: Thermal Testbed</h2>
+
+<p><img src="/assets/thermal testbed.png" alt="logo" class="center" /></p>
+
+<p>Goal:</p>
+<ul>
+  <li>To study the amount of fluid left in the consumable device after evacuation due to interfacial phenomena.</li>
+</ul>
+
+<p>Work Completed:</p>
+<ul>
+  <li>The consumable mount was hand milled, with two DMMs nearby to measure temperature, and the system was heated via a resistive heater.</li>
+  <li>Hand calculations were completed to determine multiple characteristics (heating time, max temps, etc.).</li>
+</ul>
+:ET
