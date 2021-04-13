@@ -3,10 +3,6 @@ layout: page
 title:  "Home"
 ---
 
----
-layout: default
----
-
 {% for post in paginator.posts %}
 <article class="post" role="article" itemscope itemtype="http://schema.org/BlogPosting">
     <header class="post-header">
