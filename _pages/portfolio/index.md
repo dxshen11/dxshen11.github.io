@@ -1,12 +1,42 @@
 ---
 layout: page
-title:  "Portfolio"
-permalink: "/portfolio/"
+title:  "Education"
 ---
 
-<figure>
-    <img src="https://cdn.dribbble.com/users/1073937/screenshots/5036567/waterfall.png" />
-    <figcaption>Created by <a href="https://dribbble.com/HannahLizSharp" target="_blank_">Hannah Sharp</a></figcaption>
-</figure>
+I am currently a M.S. student at the **University of California, Los Angeles (UCLA)** studying mechanical engineering, with a focus on engineering design and manufacturing. I also did my undergrad at UCLA in mechanical engineering. During my time as a student, I was also involved in a variety of different organizations, including 3D For Everyone, UCLA Residential Life, UCLA Makerspace, and much more! Listed below are some of the courses I took as a student.
 
-In addition to writing posts, another thing you may want to do with your Jekyll site is create static pages. By taking advantage of the way Jekyll copies files and directories, this is easy to do. [More Information](https://jekyllrb.com/docs/pages/){:target="_blank"}
+## M.S. in Mechanical Engineering
+Technical focus: Design, Robotics, and Manufacturing<br>
+Dates attended: September 2020 - June 2021
+<br><br>
+
+
+| Category                        	| Course Number 	| Description                               	|
+|---------------------------------	|---------------	|-------------------------------------------	|
+| Design                          	| MAE C294A     	| Compliant Mechanism Design                	|
+| Design                          	| MAE C296A     	| Power Transmission Design                 	|
+| Design                          	| MAE 296B      	| High Temperature Design                   	|
+| Design                          	| MAE C297A     	| Rapid Prototyping & Manufacturing         	|
+| Mechanics                       	| MAE 256F      	| Analytical Fracture Mechanics             	|
+| Mechanics                       	| MAE 262       	| Mechanics of Intelligent Material Systems 	|
+| Nanotechnology & MEMS           	| MAE 281       	| Microsciences                             	|
+| Machine Learning & Data Science 	| CEE 298       	| AI & ML Seminar                           	|
+| Machine Learning & Data Science 	| BIOENGR C275  	| ML Modeling in Bioengineering             	|
+
+<br>
+## B.S. in Mechanical Engineering
+Technical focus: Engineering Sciences <br>
+Dates attended: August 2016 - June 2020
+
+<br>
+
+| Category         	| Course Number 	| Description                     	|
+|------------------	|---------------	|---------------------------------	|
+| Design           	| MAE 162DE     	| Mechanical Design - Capstone    	|
+| Design           	| MAE 162A      	| Mechanisms & Mechanical Systems 	|
+| Mechanics        	| MAE 168       	| Finite Element Methods          	|
+| Mechanics        	| MAE 156A      	| Advanced Strengths of Materials 	|
+| Thermal Sciences 	| MAE 105D      	| Heat Transfer                   	|
+| Thermal Sciences 	| MAE 133A      	| Engineering Thermodynamics      	|
+| Programming      	| MAE M20       	| MATLAB                          	|
+| Programming      	| COM SCI 31    	| Introduction to C++             	|

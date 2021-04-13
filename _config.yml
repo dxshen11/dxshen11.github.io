@@ -1,23 +1,23 @@
 # General Settings
-name: Steve Austin
-job_title: UI/UX Engineer
-email: youremail@gmail.com
-description: I build great products at Google, currently Google Maps. I also enjoy capturing moments with my camera and discovering new music. Follow me Twitter or drop me a line.
-avatar: https://s3.amazonaws.com/uifaces/faces/twitter/dancounsell/128.jpg
-favicon: /favicon.ico
-twitter_handler: your_handler
-analytics_code: UA-XXXXXXX-2
-disqus: your_disqus_site
+name: Dennis Shen
+job_title: M.S. Mechanical Engineering - UCLA
+email: dennisxinshen@ucla.edu
+description: I am currently a M.S. candidate at UCLA studying mechanical engineering with a breadth in engineering design, as well as a smaller focus in mechanics and machine learning. My professional experiences include the medical device, product development, and aerospace industries.
+avatar: /assets/images/face.jpg
+# favicon: /favicon.ico
+# twitter_handler: your_handler
+# analytics_code: UA-XXXXXXX-2
+# disqus: your_disqus_site
 
 # Social Accounts
 social_networks:
--  { name: facebook, url: 'http://facebook.com' }
--  { name: twitter, url: 'http://twitter.com' }
+-  { name: facebook, url: '' }
+-  { name: twitter, url: '' }
 -  { name: instagram, url: '' }
 -  { name: google-plus, url: '' }
--  { name: linkedin, url: '' }
+-  { name: linkedin, url: 'https://www.linkedin.com/in/dennisxinshen/' }
 -  { name: skype, url: '' }
--  { name: github, url: '' }
+-  { name: github, url: 'https://github.com/dxshen11' }
 -  { name: codepen, url: '' }
 -  { name: stack-overflow, url: '' }
 -  { name: dribbble, url: '' }
@@ -41,11 +41,24 @@ social_networks:
 show_categories: 1
 show_tags: 1
 show_email: 1
-show_rss: 1
-show_comments: 1
+show_rss: 0
+show_comments: 0
 show_menu: 1
-fixed_sidebar: 1
+fixed_sidebar: 0
 
+# Collections:
+collections:
+  education:
+    output: true
+    permalink: /education/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
+  experiences:
+    output: true
+    permalink: /experiences/:path/
+
+  
 # Defaults
 defaults:
   -
