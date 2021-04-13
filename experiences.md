@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "Experiences"
+permalink: "/experiences/"
 ---
 
 {% for experiences in site.experiences %}

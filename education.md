@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "Education"
+permalink: "/education/"
 ---
 
 I am currently a M.S. student at the **University of California, Los Angeles (UCLA)** studying mechanical engineering, with a focus on engineering design and manufacturing. I also did my undergrad at UCLA in mechanical engineering. During my time as a student, I was also involved in a variety of different organizations, including 3D For Everyone, UCLA Residential Life, UCLA Makerspace, and much more! Listed below are some of the courses I took as a student.
