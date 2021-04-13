@@ -1,19 +1,17 @@
 ---
-layout: post
+layout: simple
 title:  "UCLA MakerSpace"
+description: The UCLA MakerSpace at Rieber Hall is a fabrication shop that provides tools and equipment, such as 3D printers, a CNC mill, woodworking tools, a laser cutter, and much more to students free of charge. I worked there for almost 2 years a shop technician, overseeing all equipment and repairs.
 ---
+## Role: Shop Technician
 
-## UCLA MakerSpace
-
-
-<img src="/assets/makerspace.jpg" alt="makerspace" class="centered" width = 900>
+<img src="/assets/makerspace.jpg" alt="makerspace" class="centered" width = "900">
 
 *Image source: "New makerspace at Rieber Hall to offer students room for creativity - Daily Bruin"*
 
-<img src="/assets/maker_team.png" alt="makerspace" class="centered" width = 900>
+<img src="/assets/maker_team.png" alt="makerspace" class="centered" width = "900">
 
 
-# Role: Shop Technician
 
 Working at the UCLA MakerSpace was one of the most enjoyable and rewarding experiences during my time as an undergraduate student. The goal of the organization was to provide a space where students of all backgrounds could learn the skills needed to work on whatever idea or project they had in mind. 
 

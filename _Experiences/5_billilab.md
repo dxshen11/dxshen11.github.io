@@ -1,13 +1,13 @@
 ---
-layout: post
-title:  "Additive Manufacturing Researcher: Billi Lab"
+layout: simple
+title:  "Orthopedic Hospital Research Center: Billi Fabrizio's Lab"
+description: Dr. Billi Fabrizio is a materials science researcher at the Orthopedic Hospital Research Center focusing on orthopedic materials and additive manufacturing. I was a student researcher focusing on optimizing FDM 3D printing for orthopedic braces and surgical models. 
 ---
 
-## Billi Lab
+## Role: Additive Manufacturing Researcher
 
 <img src="/assets/billi_lab.png" alt="billi" class="center">
 
-# Role: Additive Manufacturing Researcher
 
 As an undergraduate researcher, I joined the Billi Lab at the UCLA Orthopedic Hospital Research Center to investigate the application of additive manufacturing in biomaterials and surgical rehearsal. 
 
